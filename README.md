@@ -1,4 +1,4 @@
-# Project - Whisper-large-v3
+# Project - Audio Transcription and Summarization with FastAPI using Whisper-large-v3
 Audio Transcription and Summarization with FastAPI
 
 Objective:
