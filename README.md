@@ -2,6 +2,7 @@
 Audio Transcription and Summarization with FastAPI
 
 Objective:
+  
   You are tasked with developing a system that handles audio files by transcribing them, summarizing the 
   content, extracting timestamps, and saving the results locally. Additionally, you will implement a FastAPI 
   server to handle endpoints for this process.
